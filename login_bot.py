@@ -15,7 +15,7 @@ log = logging.getLogger(__name__)
 
 LOGIN_URL       = "https://siginv.uniguajira.edu.co/#/login"
 ARCHIVO_CORREOS = "correos.txt"
-WORKERS         = 10
+WORKERS         = 20
 ESPERA_CICLO    = 0
 
 
