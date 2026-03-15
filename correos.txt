@@ -1,8 +1,0 @@
-# Formato: correo,contraseña
-# Una cuenta por línea
-# Las líneas que empiezan con # son comentarios y se ignoran
-
-correo1@universidad.edu,contraseña1
-correo2@universidad.edu,contraseña2
-correo3@universidad.edu,contraseña3
-# Agrega aquí todos los correos que necesites...
