@@ -1,0 +1,3 @@
+# Formato: correo,contraseña
+correo1@uniguajira.edu.co,contraseña1
+correo2@uniguajira.edu.co,contraseña2
