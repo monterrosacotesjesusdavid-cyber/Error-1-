@@ -1,6 +1,5 @@
 # Logs generados
 logs/
-screenshots/
 
 # Python
 __pycache__/
@@ -8,5 +7,5 @@ __pycache__/
 .venv/
 venv/
 
-# Variables de entorno locales
+# Variables de entorno
 .env
